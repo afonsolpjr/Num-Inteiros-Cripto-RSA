@@ -26,7 +26,8 @@ Excetuando o "cripto_win.c", todos os outros arquivos utilizam a biblioteca gmp.
  - o número a ser o módulo
  - chave de encriptação "e"
  - chave de decriptação "d"
- 
+  Tudo em base decimal.
+
  E ao final possui um simples teste das chaves, permitindo criptografar números. Este teste é o mesmo em "teste_chaves.c", que lê as chaves do arquivo txt e permite testá-las.
  
  
